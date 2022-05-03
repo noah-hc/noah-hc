@@ -6,8 +6,8 @@
 
 ### Contact
 
-- Discord: [KAI](https://discord.com/users/833487896312152134)
-- Mail: [whykaimc@gmail.com](mailto:whykaimc@gmail.com)
+- Discord: 희찬#2263
+- Mail: [me@heechan.dev](mailto:me@heechan.dev)
 
 ### Developing
 
@@ -19,8 +19,8 @@
 
 ### Github Status
 
-![KAI's github stats](https://github-readme-stats.vercel.app/api?username=whykaimc&bg_color=000000&title_color=fff&text_color=fff&show_icons=true&count_private=true)
+![Noah's github stats](https://github-readme-stats.vercel.app/api?username=noah-hc&bg_color=000000&title_color=fff&text_color=fff&show_icons=true&count_private=true)
 
 ### Top Langs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whykaimc&bg_color=000000&title_color=fff&text_color=fff)](https://github.com/whykaimc/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whykaimc&bg_color=000000&title_color=fff&text_color=fff)](https://github.com/noah-hc/github-readme-stats)
