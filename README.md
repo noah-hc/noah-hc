@@ -11,7 +11,7 @@
 
 ### Developing
 
-- 
+- Discord Bots
 
 #### Project currently working on
 
