@@ -23,4 +23,4 @@
 
 ### Top Langs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whykaimc&bg_color=000000&title_color=fff&text_color=fff)](https://github.com/noah-hc/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noah-hc&bg_color=000000&title_color=fff&text_color=fff)](https://github.com/noah-hc/github-readme-stats)
