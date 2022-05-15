@@ -2,7 +2,7 @@
 
 ### Useful Links
 
-- 
+- [Personal Website](https://heechan.dev/)
 
 ### Contact
 
@@ -13,9 +13,11 @@
 
 - Discord Bots
 
-#### Project currently working on
+#### Learning
 
-- 
+- Python
+- SQLite3
+- JavaScript
 
 ### Github Status
 
